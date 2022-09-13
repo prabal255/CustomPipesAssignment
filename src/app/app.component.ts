@@ -7,4 +7,7 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'customPipes';
+  value=1;
+  power=1;
+  dollar=1;
 }
